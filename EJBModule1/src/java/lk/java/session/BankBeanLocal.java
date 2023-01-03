@@ -1,0 +1,19 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package lk.java.session;
+
+import javax.ejb.Local;
+
+/**
+ *
+ * @author Rajitha Yasasri
+ */
+@Local
+public interface BankBeanLocal {
+
+    void create(String name, String account, String address, String emp_id);
+    
+}
