@@ -1,0 +1,24 @@
+SMAP
+addshift_jsp.java
+JSP
+*S JSP
+*F
++ 0 addshift.jsp
+addshift.jsp
++ 1 sidebar.jsp
+sidebar.jsp
++ 2 modal.jsp
+modal.jsp
+*L
+1,38:50
+1#1,244:88
+38#0,85:331
+1#2,40:416
+122#0,278:456
+401,3:736
+403,4:739
+407:743,3
+408,4:746
+413,4:752
+416,3:756
+*E

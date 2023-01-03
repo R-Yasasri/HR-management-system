@@ -1,0 +1,24 @@
+SMAP
+addabank_jsp.java
+JSP
+*S JSP
+*F
++ 0 addabank.jsp
+addabank.jsp
++ 1 sidebar.jsp
+sidebar.jsp
++ 2 modal.jsp
+modal.jsp
+*L
+1,38:50
+1#1,250:88
+38#0,59:337
+1#2,40:396
+96#0,278:436
+375,3:716
+377,4:719
+381:723,3
+382,4:726
+387,4:732
+390,3:736
+*E

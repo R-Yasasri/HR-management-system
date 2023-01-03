@@ -1,0 +1,24 @@
+SMAP
+addjob_jsp.java
+JSP
+*S JSP
+*F
++ 0 addjob.jsp
+addjob.jsp
++ 1 sidebar.jsp
+sidebar.jsp
++ 2 modal.jsp
+modal.jsp
+*L
+1,38:50
+1#1,244:88
+38#0,59:331
+1#2,40:390
+96#0,278:430
+375,3:710
+377,4:713
+381:717,3
+382,4:720
+387,4:726
+390,3:730
+*E
